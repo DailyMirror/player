@@ -1,0 +1,36 @@
+[submodule "splayer"]
+	path = splayer
+	url = https://github.com/tomasen/splayer.git
+[submodule "live555"]
+	path = live555
+	url = https://github.com/rgaufman/live555
+[submodule "QtAV"]
+	path = QtAV
+	url = https://github.com/wang-bin/QtAV.git
+[submodule "leixiaohua/ffplaymfc"]
+	path = leixiaohua/ffplaymfc
+	url = https://github.com/leixiaohua1020/ffplaymfc.git
+[submodule "videolan/vlc"]
+	path = videolan/vlc
+	url = https://github.com/videolan/vlc.git
+[submodule "mpc-hc"]
+	path = mpc-hc
+	url = https://github.com/mpc-hc/mpc-hc.git
+[submodule "videolan/VR-for-VLC"]
+	path = videolan/VR-for-VLC
+	url = https://github.com/MSHoloLens/VR-for-VLC.git
+[submodule "YUVPlayer"]
+	path = YUVPlayer
+	url = https://github.com/latelee/YUVPlayer.git
+[submodule "mpv"]
+	path = mpv
+	url = https://github.com/mpv-player/mpv.git
+[submodule "xbmc"]
+	path = xbmc
+	url = https://github.com/xbmc/xbmc.git
+[submodule "EasyDarwin/EasyClient"]
+	path = EasyDarwin/EasyClient
+	url = https://github.com/EasyDarwin/EasyClient.git
+[submodule "EasyDarwin/EasyDarwin"]
+	path = EasyDarwin/EasyDarwin
+	url = https://github.com/EasyDarwin/EasyDarwin.git
